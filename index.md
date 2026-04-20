@@ -13,7 +13,7 @@ A language enthusiast. Terraria, Oblivion, Team Fortress peak
 
 ## Education
 
-* Bunga Bangsa Kindergarten | Samarinda, Indonesia | Graduated: 2018
+* Bunga Bangsa Kindergarten \| Samarinda, Indonesia \| Graduated: 2018
 * Homeschooled until 2023
-* Kampung Santri Junior High School | Cilembu, Indonesia | Expected: July 2026
+* Kampung Santri Junior High School \| Cilembu, Indonesia \| Expected: July 2026
 
