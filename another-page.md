@@ -4,7 +4,7 @@ layout: default
 
 ## You got rickrolled LOL.
 
-![A surprise](./assets/bItjt.gif)
+![A surprise](/home/sensei/Projects/nanagenshoku.github.io/assets/bItjt.gif)
 
 
 [back](./)
