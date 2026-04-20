@@ -23,4 +23,4 @@ A language enthusiast. Terraria, Oblivion, Team Fortress peak
 
 
 
-click [here](./another-page.html) for a surprise :]
+click [here](./another-page.md) for a surprise :]
