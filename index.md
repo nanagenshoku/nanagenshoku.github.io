@@ -17,3 +17,10 @@ A language enthusiast. Terraria, Oblivion, Team Fortress peak
 * Homeschooled until 2023
 * Kampung Santri Junior High School \| Cilembu, Indonesia \| Expected: July 2026
 
+## Job
+
+* Currently unemployed
+
+
+
+click [here](./another-page.html) for a surprise :]

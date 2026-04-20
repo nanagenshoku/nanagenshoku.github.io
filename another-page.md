@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## You got rickrolled LOL.
 
-_yay_
+
 
 [back](./)
