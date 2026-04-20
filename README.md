@@ -12,3 +12,7 @@ A language enthusiast. Terraria, Oblivion, Team Fortress peak
 * Cannot speak buginese nor javanese.
 
 ## Education
+
+* Bunga Bangsa Kindergarten | Samarinda, Indonesia | Graduated: 2018
+* Homeschooled until 2023
+* Kampung Santri Junior High School | Cilembu, Indonesia | Expected: June 2026
