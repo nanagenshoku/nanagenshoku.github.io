@@ -4,6 +4,6 @@ layout: default
 
 ## You got rickrolled LOL.
 
-![A surprise](https://tenor.com/bItJt.gif)
+![A surprise](./assets/images/rickroll-roll.gif)
 
 [back](./)
