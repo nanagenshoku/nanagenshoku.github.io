@@ -23,7 +23,7 @@ layout: default
 
  if (answer = "5162011") {
      alert("You shall pass");
-     window.location.href = "page.md"
+     window.location.assign(./page)
  } else {
      alert("You disappoint me.");
  }
