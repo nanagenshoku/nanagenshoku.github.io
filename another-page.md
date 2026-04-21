@@ -6,4 +6,4 @@ layout: default
 
 ![A surprise](./rickroll-roll.gif)
 
-[back](./) [click here] ()
+[back](./) <a href="javascript:void(0)" onclick="answer">secret.</a>
