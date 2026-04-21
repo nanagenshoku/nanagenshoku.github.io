@@ -23,7 +23,7 @@ layout: default
 
  if (answer = "5162011") {
      alert("You shall pass");
-     window.location.href = "sensei/Projects/nanagenshoku.github.io/page.md"
+     window.location.href = "page.md"
  } else {
      alert("You disappoint me.");
  }
