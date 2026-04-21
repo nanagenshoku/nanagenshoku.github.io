@@ -6,4 +6,4 @@ layout: default
 
 ![A surprise](./rickroll-roll.gif)
 
-[back](./) <p onclick="answer">click here</p>
+[back](./) [click here] ()
