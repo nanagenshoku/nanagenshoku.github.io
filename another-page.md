@@ -6,4 +6,4 @@ layout: default
 
 ![A surprise](./rickroll-roll.gif)
 
-[back](./) <a href="javascript:void(0)" onclick="answer">secret.</a>
+[back](./) <a href="assets/js/puzzle.js" onclick="answer">secret.</a>
