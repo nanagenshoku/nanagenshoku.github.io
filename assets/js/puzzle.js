@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
         event.preventDefault(); // Stop the page from jumping
         
         const questions = ["Know when I was release, for that is my joy.", "What comes after a wheeze?"];
-const randomIndex = Math.round(Math.random() * questions.length);
+const randomIndex = Math.floor(Math.random() * questions.length);
 
         let answer = ["5162011", "Buddy Holly"]
 
