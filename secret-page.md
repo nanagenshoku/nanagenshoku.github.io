@@ -7,3 +7,5 @@ layout: default
 ![surprise](./weezer.png)
 
 <audio src="./Buddy%20Holly" autoplay loop></audio>
+
+[back](./another-page.html)
