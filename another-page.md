@@ -17,21 +17,20 @@ document.addEventListener("DOMContentLoaded", function() {
       question.addEventListener("click", function(event) {
         event.preventDefault(); // Stop the page from jumping
         
-        const questions = ["Know when I was release, for that is my joy.", "What comes after a wheeze?"];
-const randomIndex = Math.floor(Math.random() * questions.length);
+const choice = Math.random() < 0.5 ? "Know when I was released, for that is my joy." : "What comes after a wheeze?"
 
         let answer = ["5162011", "Buddy Holly"]
 
-window['prompt'](questions[randomIndex]);
+window['prompt'](choice);
 
- if (questions = "Know when I was released, for that is my joy.") {
+ if (choice = "Know when I was released, for that is my joy.") {
     if (answer = "5162011") {
       alert("You shall pass.")
       window.location.href = "./new-page.html"
     } else {
           alert("You disappoint me.")
     }
- } else if (questions = "What comes after a wheeze?") {
+ } else if (choice = "What comes after a wheeze?") {
      if (answer = "Buddy Holly") {
        alert("Correct!")
        window.location.href = "./secret-page.html"
