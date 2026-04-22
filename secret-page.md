@@ -8,7 +8,7 @@ layout: default
 
 try clicking something.
 
-<audio src="./BuddyHolly.mp3" autoplay loop></audio>
+<audio src="./BuddyHolly.mp3" autoplay></audio>
 
 <script>
   window.addEventListener('click', () => {
