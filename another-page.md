@@ -12,35 +12,35 @@ layout: default
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    const question = document.getElementById("askQuestion()");
+    const questionLink = document.getElementById("askQuestion()");
     
-    if (question) {
-      question.addEventListener("click", function(event) {
-        event.preventDefault(); // Stop the page from jumping
+    if (questionLink) {
+      questionLink.addEventListener("click", function(event) {
+        event.preventDefault(); 
         
         const questions = ["Know when I was released, for that is my joy.", "What comes after a wheeze?"];
-const randomIndex = Math.floor(Math.random() * questions.length);
+        const randomIndex = Math.floor(Math.random() * questions.length);
+        const selectedQuestion = questions[randomIndex];
 
-        let answer = ["5162011", "Buddy Holly"]
+        // Store what the user actually types
+        let userInput = window['prompt'](selectedQuestion);
 
-window['prompt'](questions[randomIndex]);
-
- if (questions = "Know when I was released, for that is my joy.") {
-    if (answer = "5162011") {
-      alert("You shall pass.")
-      window.location.href = "./new-page.html"
-    } else {
-          alert("You disappoint me.")
-    }
- } else if (questions = "What comes after a wheeze?") {
-     if (answer = "Buddy Holly") {
-       alert("Correct!")
-       window.location.href = "./secret-page.html"
-     } else {
-       alert("Incorrect!")
-     }
- }
+        if (selectedQuestion === "Know when I was released, for that is my joy.") {
+            if (userInput === "5162011") {
+                alert("You shall pass.");
+                window.location.href = "./new-page.html";
+            } else {
+                alert("You disappoint me.");
+            }
+        } else if (selectedQuestion === "What comes after a wheeze?") {
+            if (userInput === "Buddy Holly") {
+                alert("Correct!");
+                window.location.href = "./secret-page.html";
+            } else {
+                alert("Incorrect!");
+            }
+        }
       });
     }
-  });
+});
 </script>
