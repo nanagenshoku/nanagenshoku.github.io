@@ -56,6 +56,8 @@ window['prompt'](questions[randomIndex]);
      } else {
        alert("Incorrect!")
      }
+ } else {
+       alert(".")
  }
       });
     }
