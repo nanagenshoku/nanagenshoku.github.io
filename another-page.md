@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
       question.addEventListener("click", function(event) {
         event.preventDefault(); // Stop the page from jumping
         
-        const questions = ["Know when I was release, for that is my joy.", "What comes after a wheeze?"];
+        const questions = ["Know when I was released, for that is my joy.", "What comes after a wheeze?"];
 const randomIndex = Math.floor(Math.random() * questions.length);
 
         let answer = ["5162011", "Buddy Holly"]
