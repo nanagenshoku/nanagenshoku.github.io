@@ -8,7 +8,7 @@ layout: default
 
 try clicking something.
 
-<audio src="./Buddy%20Holly.mp3" autoplay loop></audio>
+<audio src="./BuddyHolly.mp3" autoplay loop></audio>
 
 <script>
   window.addEventListener('click', () => {
@@ -17,4 +17,4 @@ try clicking something.
   }, { once: true }); // 'once' ensures it only triggers on the first click
 </script>
 
-[back](./another-page.html)
+[back](./)

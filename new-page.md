@@ -15,5 +15,5 @@ Furthermore, the world-building is subtly brilliant. The contrast between the pe
 In conclusion, Terraria succeeds because it respects the player’s time and curiosity. It offers a near-infinite amount of content, hidden secrets, and a sense of "just one more boss" that has kept it at the top of the charts for years. It is a celebration of exploration and a testament to how deep a 2D world can truly be.
 
 
-[back](./another-page.html)
+[back](./)
 

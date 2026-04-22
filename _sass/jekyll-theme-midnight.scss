@@ -59,6 +59,16 @@ a {
   }
 }
 
+.secret {
+  color:#222222;
+  font-weight:400;
+  text-decoration:none;
+
+  &:hover {
+    text-decoration:underline;
+  }
+}
+
 a small {
   font-size:11px;
   color:#666;
