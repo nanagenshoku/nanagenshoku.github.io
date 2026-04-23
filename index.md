@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (selectedQuestion === "Know when I was released, for that is my joy.") {
             if (userInput === "5162011") {
                 alert("You shall pass.");
-                window.location.href = "./new-page.html";
+                window.location.href = "./secret2-page.html";
             } else {
                 alert("You disappoint me.");
             }
@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function() {
         } else if (selectedQuestion === "What did Rick do in saturday morning?") {
             if (userInput === "Rolling") {
                 alert("Correct!");
-                window.location.href = "./another-page.html";
+                window.location.href = "./secret3-page.html";
             } else {
                 alert("Incorrect!")
             }
