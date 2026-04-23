@@ -8,7 +8,7 @@ layout: default
 credit:[GreyL1me](https://forums.terraria.org/index.php?members/greyl1me%F0%9F%8C%B3.281164/)on Terraria Forum
 
 
-<audio src="./Underground.mp3" autoplay></audio>
+<audio src="./Underground.mp3" autoplay loop></audio
 
 <script>
   window.addEventListener('click', () => {
