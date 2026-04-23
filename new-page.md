@@ -5,7 +5,7 @@ layout: default
 ## Now vibe
 
 ![cool art](./enjoy.png)
-credit:[GreyL1me](https://forums.terraria.org/index.php?members/greyl1me%F0%9F%8C%B3.281164/)on Terraria Forum
+credit:[GreyL1me](https://forums.terraria.org/index.php?members/greyl1me%F0%9F%8C%B3.281164/) on Terraria Forum
 
 
 <audio src="./Underground.mp3" autoplay loop></audio
